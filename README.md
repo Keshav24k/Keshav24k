@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that involve innovative machine learning applications, scalable data pipelines, and the intersection of data science with cloud computing.
 
-📫 How to reach me: Connect with me on LinkedIn linkedin.com/in/k-elankovan or drop me an email at keshav24k@gmail.com.
+📫 How to reach me: Connect with me on LinkedIn www.linkedin.com/in/k-elankovan or drop me an email at keshav24k@gmail.com.
 <!---
 Keshav24k/Keshav24k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
